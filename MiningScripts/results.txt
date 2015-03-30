@@ -1,0 +1,8 @@
+Bareburger {u'city': u'Hoboken', u'display_address': [u'515 Washington St', u'Hoboken, NJ 07030'], u'geo_accuracy': 8.0, u'postal_code': u'07030', u'country_code': u'US', u'address': [u'515 Washington St'], u'coordinate': {u'latitude': 40.742664, u'longitude': -74.028945}, u'state_code': u'NJ'}
+
+Five Guys Hoboken {u'city': u'Hoboken', u'display_address': [u'319 Washington St', u'Hoboken, NJ 07030'], u'geo_accuracy': 9.5, u'postal_code': u'07030', u'country_code': u'US', u'address': [u'319 Washington St'], u'coordinate': {u'latitude': 40.740494, u'longitude': -74.029854}, u'state_code': u'NJ'}
+
+Tony Boloney's {u'city': u'Hoboken', u'display_address': [u'263 1st St', u'Hoboken, NJ 07030'], u'geo_accuracy': 9.5, u'postal_code': u'07030', u'country_code': u'US', u'address': [u'263 1st St'], u'coordinate': {u'latitude': 40.7378974, u'longitude': -74.0343764}, u'state_code': u'NJ'}
+
+Boardwalk Fresh Burgers & Fries {u'city': u'Hoboken', u'display_address': [u'832 Washington St', u'Hoboken, NJ 07030'], u'geo_accuracy': 9.5, u'postal_code': u'07030', u'country_code': u'US', u'address': [u'832 Washington St'], u'coordinate': {u'latitude': 40.7472356, u'longitude': -74.0282471}, u'state_code': u'NJ'}
+

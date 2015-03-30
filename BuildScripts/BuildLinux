@@ -1,0 +1,83 @@
+#!/bin/bash
+# Post-OS (Debian) Build Script for DiViNCi Linux Application Server 
+# Author: Christopher L. Corrado
+# Digital Hoboken: Senior Design 2015
+
+# Function: On a clean Debian-based Linux Server (Ubuntu), this script will:
+#	Install Necessary Packages
+#	Configure MySQL Database with:
+#		Root p/w Sen1orDes1gn
+#		u: user p: pass (for application mining)
+#	Install Linux GDrive to:
+#		Download up-to-date SQL Data from Drive. (There will be addition Python logic for this post-script)
+#		Push Mined Data for access by Virtual Hoboken (Outside the scope of this script)
+#		Pull Yelp-API for Hoboken Location Data from Drive
+
+
+# Add or Remove Installation packages to set-up Debian-based Linux Server with applications.
+
+pkgs=( subversion git g++ gcc mongodb scons jq gawk python-pandas
+       python-mysqldb python-pip python-setuptools apache2 php5 libapache2-mod-php5 openssh-server
+       terminator meld atop htop colormake vim libmysql++3 libmysql++-dev
+       libfftw3-dev libconfig-dev atop nmap libssl-dev xsltproc bridge-utils libqt4-dev 
+       ia32-libs bbe gnuplot rapidsvn p7zip acroread mysql-server )
+
+# Make sure only root can run our script
+	if [[ $EUID -ne 0 ]]; then
+	  echo "This script must be run as root" 1>&2
+	  exit 1
+	fi
+echo "Open this script in a text editor to view the functions of this script. Do Not Run without knowing what this does!!"
+echo "Press [Enter] to continue or [CTRL-C] to read first!"
+read
+
+# Server functional installation pre-requisites: MySQL server, GDrive, python-2.7, python-pip, etc
+
+echo "Installing required packages"
+	for i in "${pkgs[@]}"
+	do
+		sudo apt-get -y install $i
+	done
+		sudo apt-get -y update
+		sudo apt-get -fy install
+
+# Fix Python-Pip bug...ugh right?
+rm -rf /usr/local/lib/python2.7/dist-packages/requests
+
+# Install via Pip for Yelp API Calls..
+pip install oauth2==1.0
+pip install httplib2==0.9
+
+# Set MySQL login information
+
+	debconf-set-selections <<< "mysql-server-5.5 mysql-server/root_password Sen1orDes1gn Sen1orDes1gn"
+	debconf-set-selections <<< "mysql-server-5.5 mysql-server/root_password_again Sen1orDes1gn Sen1orDes1gn"
+
+echo "Configuring User for MySQL DB."
+echo "CREATE USER 'user'@'localhost' IDENTIFIED BY 'pass'" | mysql -u root -pSen1orDes1gn
+echo "CREATE USER 'user'@'%' IDENTIFIED BY 'pass'" | mysql -u root -pSen1orDes1gn
+echo "GRANT ALL PRIVILEGES ON *.* TO 'user'@'localhost'" | mysql -u root -pSen1orDes1gn
+echo "GRANT ALL PRIVILEGES ON *.* TO 'user'@'%'" | mysql -u root -pSen1orDes1gn
+echo "create database Hob1" | mysql -u root -pSen1orDes1gn
+echo "use Hob1; CREATE TABLE locations (location VARCHAR(20), GPSX INT, GPSY INT, tweet_count INT)" | mysql -u root -pSen1orDes1gn
+
+# Download and Install GDrive 
+wget "https://drive.google.com/uc?id=0B3X9GlR6EmbndFBkTWllLWxEVWM"
+install drive-linux-amd64 /usr/local/bin/drive
+
+echo "Configuring Google Drive for Linux --- Will need to copy/paste Auth from Google before Continuing!!!!"
+echo "**********Ensure you are logged into Gmail with the divincisystem@gmail.com account!!!**********"
+drive 
+echo "Prompt should have appeared to copy and paste Google Authentication Key. [Enter] to Continue."
+read
+
+# Download Updated Hob1.SQL file from Drive to current dir.
+drive download --id 0B6Nj5wCGEixQUVBhYXNwcUg0WUU
+
+sudo chmod 777 -R Hob1.sql
+
+echo "Enter MySQL-root Password (Sen1orDes1gn) to import new SQL data."
+mysql -u root -pSen1orDes1gn Hob1 < Hob1.sql
+
+echo "Script Complete. Press [Enter] To Continue. [[ Thanks for playing :P ]]"
+read
