@@ -1,8 +1,180 @@
-Bareburger {u'city': u'Hoboken', u'display_address': [u'515 Washington St', u'Hoboken, NJ 07030'], u'geo_accuracy': 8.0, u'postal_code': u'07030', u'country_code': u'US', u'address': [u'515 Washington St'], u'coordinate': {u'latitude': 40.742664, u'longitude': -74.028945}, u'state_code': u'NJ'}
-
-Five Guys Hoboken {u'city': u'Hoboken', u'display_address': [u'319 Washington St', u'Hoboken, NJ 07030'], u'geo_accuracy': 9.5, u'postal_code': u'07030', u'country_code': u'US', u'address': [u'319 Washington St'], u'coordinate': {u'latitude': 40.740494, u'longitude': -74.029854}, u'state_code': u'NJ'}
-
-Tony Boloney's {u'city': u'Hoboken', u'display_address': [u'263 1st St', u'Hoboken, NJ 07030'], u'geo_accuracy': 9.5, u'postal_code': u'07030', u'country_code': u'US', u'address': [u'263 1st St'], u'coordinate': {u'latitude': 40.7378974, u'longitude': -74.0343764}, u'state_code': u'NJ'}
-
-Boardwalk Fresh Burgers & Fries {u'city': u'Hoboken', u'display_address': [u'832 Washington St', u'Hoboken, NJ 07030'], u'geo_accuracy': 9.5, u'postal_code': u'07030', u'country_code': u'US', u'address': [u'832 Washington St'], u'coordinate': {u'latitude': 40.7472356, u'longitude': -74.0282471}, u'state_code': u'NJ'}
-
+Stevens Institute of Technology
+40.7443470301
+-74.0248918533
+Stevens Park Dog Run
+40.741486546
+-74.0282811032
+Stevens Cooperative School-Newport Campus
+40.7297978
+-74.0320492
+Stevens Aquatics
+40.7447395325
+-74.0299911499
+Steven's Perfect Painting
+40.6212119
+-74.0329499
+Fran's Italian Deli
+40.738735
+-74.0295879
+Giovanni's Pizzeria & Restaurant
+40.7436038554
+-74.0289654583
+Vito's Italian Deli
+40.7463608
+-74.0283966
+Mikie Squared
+40.744053
+-74.029213
+Farside Bar & Grill
+40.743103
+-74.028816
+Mr Wraps
+40.7455772907
+-74.0301992744
+Court Street Restaurant & Bar
+40.7433544099
+-74.028699249
+Benny Tudino's Pizzeria
+40.744228
+-74.02916
+Elite Plumbing & Heating
+40.6147385
+-74.1009369
+The Turtle Club
+40.7489980505
+-74.0303206307
+Amanda's Restaurant
+40.7476387024
+-74.0281219482
+VB3 Restaurant & Bar
+40.7242546
+-74.0361633
+Qdoba Mexican Grill
+40.7414207
+-74.0300064
+Hoboken Hot Bagels
+40.7444611
+-74.0290833
+Three-A's
+40.743313
+-74.035179
+Stevens Aquatics
+40.7447395325
+-74.0299911499
+Stevens Park Dog Run
+40.741486546
+-74.0282811032
+Steven's Perfect Painting
+40.6212119
+-74.0329499
+Giovanni's Pizzeria & Restaurant
+40.7436038554
+-74.0289654583
+Fran's Italian Deli
+40.738735
+-74.0295879
+Vito's Italian Deli
+40.7463608
+-74.0283966
+Mikie Squared
+40.744053
+-74.029213
+Farside Bar & Grill
+40.743103
+-74.028816
+Mr Wraps
+40.7455772907
+-74.0301992744
+Court Street Restaurant & Bar
+40.7433544099
+-74.028699249
+The Turtle Club
+40.7489980505
+-74.0303206307
+Benny Tudino's Pizzeria
+40.744228
+-74.02916
+Elite Plumbing & Heating
+40.6147385
+-74.1009369
+Amanda's Restaurant
+40.7476387024
+-74.0281219482
+Three-A's
+40.743313
+-74.035179
+Hoboken Hot Bagels
+40.7444611
+-74.0290833
+Yeung II Sushi Asian Cuisine
+40.75079
+-74.027161
+Qdoba Mexican Grill
+40.7414207
+-74.0300064
+Napoli's Brick Oven Pizza
+40.750729
+-74.027176
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Stevens Institute of Technology
+40.7443470301
+-74.0248918533
+Stevens Aquatics
+40.7447395325
+-74.0299911499
+Steven's Perfect Painting
+40.6212119
+-74.0329499
+Giovanni's Pizzeria & Restaurant
+40.7436038554
+-74.0289654583
+Vito's Italian Deli
+40.7463608
+-74.0283966
+Mikie Squared
+40.744053
+-74.029213
+Mr Wraps
+40.7455772907
+-74.0301992744
+Farside Bar & Grill
+40.743103
+-74.028816
+The Turtle Club
+40.7489980505
+-74.0303206307
+Court Street Restaurant & Bar
+40.7433544099
+-74.028699249
+Elite Plumbing & Heating
+40.6147385
+-74.1009369
+Amanda's Restaurant
+40.7476387024
+-74.0281219482
+Benny Tudino's Pizzeria
+40.744228
+-74.02916
+Yeung II Sushi Asian Cuisine
+40.75079
+-74.027161
+Napoli's Brick Oven Pizza
+40.750729
+-74.027176
+Turning Point of Hoboken
+40.7525400347
+-74.0238189697
+Hoboken Hot Bagels
+40.7444611
+-74.0290833
+Three-A's
+40.743313
+-74.035179
+Ruth's Chris Steak House
+40.759655
+-74.0225067
+Boardwalk Fresh Burgers & Fries
+40.7472356
+-74.0282471

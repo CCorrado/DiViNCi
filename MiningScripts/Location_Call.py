@@ -17,9 +17,18 @@ def main():
 
     for location in api_calls:
         for business in location['businesses']:
-	    print business['name'], business['location']
+	    print business['name']
+	    #business['location']
 	    loc_detail = []
+	    coord_detail = []
+	    coordx = []
+	    coordy = []
   	    loc_detail = business['location']
+	    coord_detail = loc_detail['coordinate']
+	    coordx = coord_detail['latitude']
+	    coordy = coord_detail['longitude']
+	    print coordx
+	    print coordy
 	    #for line in loc_detail:
 		#left,sep,right = line.partition('coordinate')
 		#if sep:
