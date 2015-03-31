@@ -4,33 +4,32 @@ import argparse
 
 DEFAULTTERM = 'Bars'
 
-DEFAULTTERM = 'Bars'
-
 def main():
-    locations = [(40.734059,-74.029192),(40.748867,-74.038522),(40.758782,-74.022961)]
+    #locations = [(40.734059,-74.029192),(40.748867,-74.038522),(40.758782,-74.022961)]
+    locations = [(40.748867,-74.038522)]
     api_calls = []
     section = None
     found = []
 
     for lat,long in locations:
-        params = get_search_parameters(lat,long)
-        api_calls.append(get_results(params))
-        time.sleep(0.5)
+    	params = get_search_parameters(lat,long)
+    	api_calls.append(get_results(params))
+    	time.sleep(0.5)
 
-    for location in api_calls:
-        for business in location['businesses']:
-	    print business['name']
-	    #business['location']
-	    loc_detail = []
-	    coord_detail = []
-	    coordx = []
-	    coordy = []
-  	    loc_detail = business['location']
-	    coord_detail = loc_detail['coordinate']
-	    coordx = coord_detail['latitude']
-	    coordy = coord_detail['longitude']
-	    print coordx
-	    print coordy
+    	for location in api_calls:
+            for business in location['businesses']:
+	        print business['name']
+	        #business['location']
+	        loc_detail = []
+	        coord_detail = []
+	        coordx = []
+	        coordy = []
+  	        loc_detail = business['location']
+	        coord_detail = loc_detail['coordinate']
+	        coordx = coord_detail['latitude']
+	        coordy = coord_detail['longitude']
+	        print coordx
+	        print coordy
 	    #for line in loc_detail:
 		#left,sep,right = line.partition('coordinate')
 		#if sep:
@@ -69,7 +68,7 @@ def get_search_parameters(lat,long):
     params["term"] = input_values.term
     params["ll"] = "{},{}".format(str(lat),str(long))
     params["radius_filter"] = "2000"
-    params["limit"] = "20"
+    params["limit"] = "1"
 
     return params
 
