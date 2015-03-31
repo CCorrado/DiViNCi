@@ -4,6 +4,8 @@ import argparse
 
 DEFAULTTERM = 'Bars'
 
+DEFAULTTERM = 'Bars'
+
 def main():
     locations = [(40.734059,-74.029192),(40.748867,-74.038522),(40.758782,-74.022961)]
     api_calls = []
@@ -33,7 +35,7 @@ def main():
 		#left,sep,right = line.partition('coordinate')
 		#if sep:
 		#print(line)
-
+		
 def get_results(params):
 
     #Obtain these from Yelp's manage access page
