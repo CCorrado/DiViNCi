@@ -5,7 +5,8 @@ import argparse
 DEFAULTTERM = 'Bars'
 
 def main():
-    locations = [(40.734059,-74.029192),(40.748867,-74.038522),(40.758782,-74.022961)]
+    #locations = [(40.734059,-74.029192),(40.748867,-74.038522),(40.758782,-74.022961)]
+    locations = [(40.748867,-74.038522)]
     api_calls = []
     section = None
     found = []
@@ -67,7 +68,7 @@ def get_search_parameters(lat,long):
     params["term"] = input_values.term
     params["ll"] = "{},{}".format(str(lat),str(long))
     params["radius_filter"] = "2000"
-    params["limit"] = "20"
+    params["limit"] = "1"
 
     return params
 
