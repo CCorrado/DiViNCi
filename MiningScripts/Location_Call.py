@@ -18,24 +18,24 @@ def main():
 
     	for location in api_calls:
             for business in location['businesses']:
-	        loc_detail = []
-	        coord_detail = []
-	        coordx = []
-	        coordy = []
-		categ = []
-		categ_det = []
+	        bizname= []
+		bizcag= []
+		coordx= []
+		coordy= []
+		categ= []
+		categ_det= []
+		loc_detail= []
+		coord_detail = []
+		bizname = business['name']
 		categ = business['categories'] 
-		categ_det = categ[1]
+		categ_det = categ[0]
+		bizcag = categ_det[0]
   	        loc_detail = business['location']
 	        coord_detail = loc_detail['coordinate']
 	        coordx = coord_detail['latitude']
 	        coordy = coord_detail['longitude']
-	        print business['name'], coordx, coordy, categ_det[1]
-	    #for line in loc_detail:
-		#left,sep,right = line.partition('coordinate')
-		#if sep:
-		#print(line)
-		
+		print (bizname,coordx,coordy,bizcag)
+
 def get_results(params):
 
     #Obtain these from Yelp's manage access page

@@ -5,6 +5,7 @@ import Location_Call
 import socket
 import os
 import subprocess
+import nltk
 
 def main():
 
@@ -17,33 +18,37 @@ def main():
     cursor3.execute("SELECT user_id FROM Statuses")
 
     for x in cursor:
+	tweetobj = []
 	x = cursor.fetchone()
 	#print x
 	date = cursor2.fetchone()
 	#print date
 	user = cursor3.fetchone()
 	#print user
-	line = str(tuple(x)).translate(None, '!@(''RT'')(''('')('')'')"$('')')
+	line = str(tuple(x)).translate(None, '!@/("RT")u:""$('')')
 	#print line
 	tweetsplit = split_line(line)
-	#print tweetsplit
-	#tup = str(tuple(tweetsplit))
-	#print tup
-	cmd = ('python Location_Call.py -q ') + tweetsplit + "'"
-	#os.system("Location_Call.py cursor.fetchone")
-	print x, user, date
-	print tweetsplit
-	subproc = subprocess.Popen(cmd, shell=True)
-	time.sleep(0.1)
+	count = 0
+	n = 0
+	for n in range(0, len(tweetsplit)):
+	    #print tweetsplit[n]
+	    #tup = str(list(tweetsplit))
+	    #print tup
+	    cmd = ('python Location_Call.py -q ') + tweetsplit[n] + "'"
+	    #print x, user, date
+            subproc = subprocess.Popen(cmd, shell=True)
+	    n = n + 1
+            #time.sleep(0.5)
+
     cursor.close()
     cursor2.close()
     db.close()
     sys.exit()
 
 def split_line(text):
-    words = text.split()
-    for word in words:
-        return word
+    words = nltk.word_tokenize(text)
+    #for word in words:
+    return words
 
 if __name__=="__main__":
     main()
