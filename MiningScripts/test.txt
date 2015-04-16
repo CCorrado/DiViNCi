@@ -1,0 +1,1132 @@
+Gino's Pizzeria
+40.7476982474
+-74.0481197834
+Alphaurax Computer Repair & Support
+40.7424564574
+-73.9176656884
+Gino's Pizzeria
+40.7476982474
+-74.0481197834
+Kim Worley - Wedding Officiant
+40.786294
+-73.977237
+Kim Worley - Wedding Officiant
+40.786294
+-73.977237
+Fairhaven Furniture
+41.3035129
+-72.8988156
+Brownstone Dog Walkers
+40.6692664
+-73.9807802
+Cafe Matt & Meera
+40.7440096973
+-74.0289634466
+Going Green Industries
+41.04191
+-74.62998
+Going Green Industries
+41.04191
+-74.62998
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+New York Computer Help
+40.7474975871
+-73.9821780807
+The Cuban Restaurant and Bar
+40.74099
+-74.029457
+Alphaurax Computer Repair & Support
+40.7424564574
+-73.9176656884
+What's Bugging You Pest Control
+40.70244
+-73.94174
+Alphaurax Computer Repair & Support
+40.7424564574
+-73.9176656884
+('@WBCFredJr I wish I had an imaginary friend too.',) (472143987L,) (datetime.datetime(2012, 2, 16, 5, 21, 56),)
+'WBCFredJr
+('its pretty sad when youre bored to the point where you actually give twitter a try...',) (472143987L,) (datetime.datetime(2012, 5, 26, 22, 33, 59),)
+'its
+("I'm now a part of @havamedia Labs. You could be too: http://t.co/XMdQEtgH http://t.co/ejSS72xt via @HAVAmedia",) (472143987L,) (datetime.datetime(2012, 5, 27, 18, 43, 35),)
+I'm
+("I'm watching 'Game of Thrones' via @HBOGO. http://t.co/sL6V1udU #HBOGO",) (472143987L,) (datetime.datetime(2012, 5, 28, 2, 57, 47),)
+I'm
+('officially in studio!',) (472143987L,) (datetime.datetime(2012, 5, 31, 17, 32, 53),)
+'officially
+("Here's the official tracklist for the Fourulse EP!\n\n1. Decades\n2. Hupa Man\n3. The Hound\n4. Fortune Cookie\n\nComing... http://t.co/gP61lmB9",) (472143987L,) (datetime.datetime(2012, 5, 31, 17, 43, 19),)
+Here's
+('officially going dark. gotta get this ep going! first track preview available june 30th!',) (472143987L,) (datetime.datetime(2012, 5, 31, 18, 2, 2),)
+'officially
+("Game of Bones. Very rough idea (like 5 minutes in photoshop) for the album art. But it's actually going to be... http://t.co/mtsH79Mn",) (472143987L,) (datetime.datetime(2012, 5, 31, 21, 7, 19),)
+Game
+("Any recent likes or future likes, please don't forget to vote on the two polls I have going. Your opinion means a shit ton to me!",) (472143987L,) (datetime.datetime(2012, 6, 1, 0, 35, 51),)
+Any
+('bam. easy $250 on ebay in 2 hours.',) (472143987L,) (datetime.datetime(2012, 6, 1, 6, 35, 36),)
+'bam.
+('http://t.co/rvDpiUEi',) (472143987L,) (datetime.datetime(2012, 6, 2, 2, 49, 13),)
+'http://t.co/rvDpiUEi',
+('Matt Bobchin Mark Jewis you cant deny thats a BAD ASS halo 4 preorder bonus http://t.co/B8tysm0N',) (472143987L,) (datetime.datetime(2012, 6, 2, 2, 49, 43),)
+'Matt
+('Going dark. No updates for some time guys. Gotta get to work!\n\nHowever for a last update, I got a new tracklist:... http://t.co/S7IlZf57',) (472143987L,) (datetime.datetime(2012, 6, 3, 8, 3, 30),)
+'Going
+('Going dark. No updates for some time guys. Gotta get to work!\n\nHowever for a last update, I got a new tracklist:... http://t.co/UNUBuctP',) (472143987L,) (datetime.datetime(2012, 6, 3, 8, 6, 7),)
+'Going
+('that was rather...lackluster... 5.5/10 #xboxe3',) (472143987L,) (datetime.datetime(2012, 6, 4, 17, 52, 37),)
+'that
+('sony definitely over took microsoft, but it wasnt a ridiculous amount better. 7.5/10. #sonyate3',) (472143987L,) (datetime.datetime(2012, 6, 5, 2, 26, 27),)
+'sony
+('its pretty sad when someone you used care the world for lets the new dude in her life talk shit on pictures of... http://t.co/JXhwh3L9',) (472143987L,) (datetime.datetime(2012, 6, 9, 22, 4, 30),)
+'its
+('haha wow the girl i used to care the world for let the new douche bag in her life talk shit on pictures of me and... http://t.co/I2YLrsPB',) (472143987L,) (datetime.datetime(2012, 6, 9, 22, 9, 21),)
+'haha
+('what is with this shitty mood?',) (472143987L,) (datetime.datetime(2012, 6, 11, 2, 6, 45),)
+'what
+('its only the next day, but is anyone doing anything tonight? no harm in asking i guess.',) (472143987L,) (datetime.datetime(2012, 6, 11, 4, 0, 24),)
+'its
+('why is when people talk to other people about how much they hate their ex, everyone really thinks that person is... http://t.co/PvzX5CqB',) (472143987L,) (datetime.datetime(2012, 6, 12, 7, 32, 56),)
+'why
+('what started out as a show i only watched to laugh at the stupid romantic subplot, cheesy acting, and terrible... http://t.co/YYt0jQTw',) (472143987L,) (datetime.datetime(2012, 6, 12, 22, 28, 18),)
+'what
+('that really sucked... :(',) (472143987L,) (datetime.datetime(2012, 6, 14, 2, 11, 48),)
+'that
+('worked almost 10 hours to make less than $50 in tips... i just wanna go to sleep...',) (472143987L,) (datetime.datetime(2012, 6, 14, 2, 31, 38),)
+'worked
+("Cause' I'm a picker, I'm a grinner, I'm a lover, And I'm a sinner, Playin' my music in the sun. I'm a joker, I'm... http://t.co/NY4XwUPr",) (472143987L,) (datetime.datetime(2012, 6, 15, 4, 41, 20),)
+Cause'
+('projNew York Computer Help
+40.7474975871
+-73.9821780807
+What's Bugging You Pest Control
+40.70244
+-73.94174
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Repairs On Wheels
+40.633774
+-73.977318
+The Candi Project
+40.7583732605
+-73.9680099487
+Ikea Delivery Alternative
+40.7370385242
+-73.9936705359
+Yes, I Do! Unique Invitations & Gifts
+40.740551
+-74.0302811
+Yes, I Do! Unique Invitations & Gifts
+40.740551
+-74.0302811
+Nail Concepts
+40.745243
+-74.032097
+Yes, I Do! Unique Invitations & Gifts
+40.740551
+-74.0302811
+Maid in Hoboken
+40.7471394
+-74.0377021
+Hi-So Thai
+40.760246
+-74.027946
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Mod Cup Coffee
+40.745045
+-74.043961
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Wings To Go
+40.7373314
+-74.0375137
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+ect x coulda just been one looonnnnggg commercial for some type of alcoholic product. it sucked. dont see it.',) (472143987L,) (datetime.datetime(2012, 6, 19, 4, 16, 6),)
+'project
+('mind=infinitely blown. http://t.co/84K8NIXJ',) (472143987L,) (datetime.datetime(2012, 6, 19, 7, 10, 49),)
+'mind=infinitely
+('calmate cabron :p',) (472143987L,) (datetime.datetime(2012, 6, 19, 7, 16, 47),)
+'calmate
+('i guess im the only one who doesnt care about basketball.',) (472143987L,) (datetime.datetime(2012, 6, 22, 5, 45, 16),)
+'i
+('I posted a new photo to Facebook http://t.co/UxYU4x9X',) (472143987L,) (datetime.datetime(2012, 6, 22, 6, 24, 54),)
+'I
+('I think my job new what today was. Off tomorrow! Dawnguard all night.',) (472143987L,) (datetime.datetime(2012, 6, 26, 19, 52, 20),)
+'I
+('in love with the new meet the pyro vid. still not better than meet the heavy. http://t.co/mmChtvqw',) (472143987L,) (datetime.datetime(2012, 6, 27, 18, 58, 32),)
+'in
+("Heh heh... cry s'more.",) (472143987L,) (datetime.datetime(2012, 6, 27, 19, 0, 39),)
+Heh
+('Thursday. Brining down the house Battlefield style. Come through.',) (472143987L,) (datetime.datetime(2012, 6, 27, 20, 39, 5),)
+'hursday.
+('so im supposed to be at work today at 10:30, and here i am, like a fucking fool, thinking i had to come in at 4.... http://t.co/TFzEC3w8',) (472143987L,) (datetime.datetime(2012, 6, 28, 19, 2, 48),)
+'so
+('thinking of you leroy. rip &lt;3 http://t.co/2OglmKqy',) (472143987L,) (datetime.datetime(2012, 6, 28, 19, 36, 30),)
+'thinking
+('Go Radio | Unlock New Song "Collide" http://t.co/3tNpCA7f #GoRadio\nOH GOD OH GOD OH GOD',) (188969734L,) (datetime.datetime(2012, 7, 16, 21, 34, 9),)
+'Go
+('RT @SnazztasticMatt: Go Radio | Unlock New Song "Collide" http://t.co/3tNpCA7f #GoRadio\nOH GOD OH GOD OH GOD',) (153530345L,) (datetime.datetime(2012, 7, 16, 21, 34, 23),)
+'
+('RT @denie_cee: @MattGoRadio @AlexGoRadio @GoJason @StevenGoRadio you four are perfect people. COLLIDE IS AMAZING. #closethedistance',) (188969734L,) (datetime.datetime(2012, 7, 16, 21, 36, 57),)
+'
+('@denie_cee IS IT AT 20,000 YET ALDSKJFLAKJWER',) (188969734L,) (datetime.datetime(2012, 7, 16, 21, 37, 32),)
+'denie_cee
+('RT @SnazztasticMatt: @denie_cee IS IT AT 20,000 YET ALDSKJFLAKJWER',) (153530345L,) (datetime.datetime(2012, 7, 16, 21, 37, 50),)
+'
+('RT @denie_cee: YOU FUCKERS BETTER SHARE THE SHIT OUT OF THAT VIDEO OR I SWEAR ON MY MOMMA I WILL CUT YOU LIKE A FUCKING SLICE OF PIZZA OKAY',) (188969734L,) (datetime.datetime(2012, 7, 16, 21, 57, 33),)
+'
+('RT @GoRadio: Preview our new song "Collide", help unlock more &amp; get more details about \'Close The Distance\'! http://t.co/qltslnkp ht ...',) (188969734L,) (datetime.datetime(2012, 7, 16, 21, 58, 27),)
+'
+('RT @denie_cee: @MattGoRadio @AlexGoRadio @GoJason @StevenGoRadio you four are perfect people. COLLIDE IS AMAZING. #closethedistance',) (435347959L,) (datetime.datetime(2012, 7, 16, 22, 0, 42),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (162599345L,) (datetime.datetime(2012, 7, 16, 22, 14, 38),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (302597312L,) (datetime.datetime(2012, 7, 16, 22, 14, 56),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (355871640L,) (datetime.datetime(2012, 7, 16, 22, 15, 22),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (389819311L,) (datetime.datetime(2012, 7, 16, 22, 15, 47),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (576501808L,) (datetime.datetime(2012, 7, 16, 22, 15, 49),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (55759746L,) (datetime.datetime(2012, 7, 16, 22, 15, 55),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (280777346L,) (datetime.datetime(2012, 7, 16, 22, 16, 14),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (464369015L,) (datetime.datetime(2012, 7, 16, 22, 16, 27),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (270059554L,) (datetime.datetime(2012, 7, 16, 22, 16, 41),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (21308954L,) (datetime.datetime(2012, 7, 16, 22, 17, 15),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (184889958L,) (datetime.datetime(2012, 7, 16, 22, 17, 4Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Wings To Go
+40.7373314
+-74.0375137
+0),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (182551288L,) (datetime.datetime(2012, 7, 16, 22, 18, 6),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (281179593L,) (datetime.datetime(2012, 7, 16, 22, 18, 49),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (511016821L,) (datetime.datetime(2012, 7, 16, 22, 19, 41),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (175091921L,) (datetime.datetime(2012, 7, 16, 22, 19, 47),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (517868501L,) (datetime.datetime(2012, 7, 16, 22, 26, 9),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (394260096L,) (datetime.datetime(2012, 7, 16, 22, 27, 2),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (428687573L,) (datetime.datetime(2012, 7, 16, 22, 27, 12),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (426722782L,) (datetime.datetime(2012, 7, 16, 22, 29, 36),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (435347959L,) (datetime.datetime(2012, 7, 16, 22, 31, 7),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (414767240L,) (datetime.datetime(2012, 7, 16, 22, 36, 31),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (514910672L,) (datetime.datetime(2012, 7, 16, 22, 44, 55),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (67133370L,) (datetime.datetime(2012, 7, 16, 22, 44, 59),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (50949210L,) (datetime.datetime(2012, 7, 16, 22, 48, 36),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (57513566L,) (datetime.datetime(2012, 7, 16, 22, 50, 52),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (62195581L,) (datetime.datetime(2012, 7, 16, 22, 52, 49),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (21956802L,) (datetime.datetime(2012, 7, 16, 22, 57, 3),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (56846743L,) (datetime.datetime(2012, 7, 16, 23, 1, 13),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (188969734L,) (datetime.datetime(2012, 7, 16, 23, 3, 13),)
+'
+('@liz_kantor liz you forgot me!',) (188969734L,) (datetime.datetime(2012, 7, 16, 23, 3, 31),)
+'liz_kantor
+('@liz_kantor we should hang out tomorrow night so you can get some',) (188969734L,) (datetime.datetime(2012, 7, 16, 23, 7, 23),)
+'liz_kantor
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (232294764L,) (datetime.datetime(2012, 7, 16, 23, 27, 9),)
+'
+('@PupFresh this is why you need to make horcruxes every time you update the site!',) (188969734L,) (datetime.datetime(2012, 7, 16, 23, 39, 10),)
+'PupFresh
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (485832704L,) (datetime.datetime(2012, 7, 16, 23, 53, 4),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (51870423L,) (datetime.datetime(2012, 7, 16, 23, 56, 31),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (453467534L,) (datetime.datetime(2012, 7, 17, 0, 5, 54),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (476137287L,) (datetime.datetime(2012, 7, 17, 0, 22, 36),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (408062551L,) (datetime.datetime(2012, 7, 17, 0, 33, 9),)
+'
+('RT @fagswag4L: Go Radio | Unlock New Song "Collide" http://t.co/S4g18WYX #GoRadio',) (153530345L,) (datetime.datetime(2012, 7, 17, 1, 26, 30),)
+'
+('RT @fagswag4L: Go Radio | Unlock New Song "Collide" http://t.co/S4g18WYX #GoRadio',) (188969734L,) (datetime.datetime(2012, 7, 17, 1, 29, 58),)
+'
+('Go Radio | Unlock New Song "Collide" http://t.co/3tNpCA7f #GoRadio',) (188969734L,) (datetime.datetime(2012, 7, 17, 1, 40, 26),)
+'Go
+('RT @Loulos: Get Excited. #nofilter @mattgoradio @gojason @stevengoradio @alexgoradio  http://t.co/3CwAByjb',) (188969734L,) (datetime.datetime(2012, 7, 17, 1, 41, 36),)
+'
+('RT @Loulos: Get Excited. #nofilter @mattgoradio @gojason @stevengoradio @alexgoradio  http://t.co/3CwAByjb',) (570338213L,) (datetime.datetime(2012, 7, 17, 1, 42, 29),)
+'
+('RT @Loulos: Get Excited. #nofilter @mattgoradio @gojason @stevengoradio @alexgoradio  http://t.co/3CwAByjb',) (27549345L,) (datetime.datetime(2012, 7, 17, 1, 42, 31),)
+'
+('RT @Loulos: Get Excited. #nofilter @mattgoradio @gojason @stevengoradio @alexgoradio  http://t.co/3CwAByjb',) (153530345L,) (datetime.datetime(2012, 7, 17, 1, 43,Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+ 3),)
+'
+('RT @SnazztasticMatt: Go Radio | Unlock New Song "Collide" http://t.co/3tNpCA7f #GoRadio',) (153530345L,) (datetime.datetime(2012, 7, 17, 1, 43, 6),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (64579710L,) (datetime.datetime(2012, 7, 17, 1, 56, 38),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (266383439L,) (datetime.datetime(2012, 7, 17, 1, 56, 45),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (564904765L,) (datetime.datetime(2012, 7, 17, 1, 56, 50),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (130369570L,) (datetime.datetime(2012, 7, 17, 1, 56, 51),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (23135745L,) (datetime.datetime(2012, 7, 17, 1, 56, 52),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (514955640L,) (datetime.datetime(2012, 7, 17, 1, 56, 54),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (301732142L,) (datetime.datetime(2012, 7, 17, 1, 56, 57),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (110568061L,) (datetime.datetime(2012, 7, 17, 1, 57, 1),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (29072785L,) (datetime.datetime(2012, 7, 17, 1, 57, 2),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (165531569L,) (datetime.datetime(2012, 7, 17, 1, 57, 16),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (571449156L,) (datetime.datetime(2012, 7, 17, 1, 57, 18),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (15708290L,) (datetime.datetime(2012, 7, 17, 1, 57, 19),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (48375536L,) (datetime.datetime(2012, 7, 17, 1, 57, 21),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (243401432L,) (datetime.datetime(2012, 7, 17, 1, 57, 27),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (242463576L,) (datetime.datetime(2012, 7, 17, 1, 57, 28),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (403206502L,) (datetime.datetime(2012, 7, 17, 1, 57, 34),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (59618953L,) (datetime.datetime(2012, 7, 17, 1, 57, 34),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (227722324L,) (datetime.datetime(2012, 7, 17, 1, 57, 40),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (301628111L,) (datetime.datetime(2012, 7, 17, 1, 58, 1),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (47674969L,) (datetime.datetime(2012, 7, 17, 1, 58, 31),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (345467589L,) (datetime.datetime(2012, 7, 17, 1, 58, 36),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (85194337L,) (datetime.datetime(2012, 7, 17, 1, 58, 47),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (275080036L,) (datetime.datetime(2012, 7, 17, 1, 58, 51),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (140588610L,) (datetime.datetime(2012, 7, 17, 1, 58, 55),)
+'
+('RT @PupFFiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+resh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (34203797L,) (datetime.datetime(2012, 7, 17, 1, 58, 55),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (201543975L,) (datetime.datetime(2012, 7, 17, 1, 59, 9),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (344060688L,) (datetime.datetime(2012, 7, 17, 1, 59, 34),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (387276063L,) (datetime.datetime(2012, 7, 17, 1, 59, 45),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (40717920L,) (datetime.datetime(2012, 7, 17, 1, 59, 52),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (17225481L,) (datetime.datetime(2012, 7, 17, 2, 0, 13),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (292596300L,) (datetime.datetime(2012, 7, 17, 2, 0, 17),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (17654005L,) (datetime.datetime(2012, 7, 17, 2, 0, 24),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (188969734L,) (datetime.datetime(2012, 7, 17, 2, 0, 30),)
+'
+('@StevenGoRadio so what number are we at right now total?',) (188969734L,) (datetime.datetime(2012, 7, 17, 2, 1, 30),)
+'StevenGoadio
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (21280993L,) (datetime.datetime(2012, 7, 17, 2, 1, 39),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (48165324L,) (datetime.datetime(2012, 7, 17, 2, 1, 47),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (139156544L,) (datetime.datetime(2012, 7, 17, 2, 2, 27),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (342250771L,) (datetime.datetime(2012, 7, 17, 2, 2, 34),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (61865354L,) (datetime.datetime(2012, 7, 17, 2, 2, 57),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (58755297L,) (datetime.datetime(2012, 7, 17, 2, 3, 1),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (24716876L,) (datetime.datetime(2012, 7, 17, 2, 3, 19),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (160266135L,) (datetime.datetime(2012, 7, 17, 2, 3, 21),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (161106933L,) (datetime.datetime(2012, 7, 17, 2, 3, 58),)
+'
+('@denie_cee yeah im not sure because we cant see email sign ups and idk if they count retweets, reblogs, etc',) (188969734L,) (datetime.datetime(2012, 7, 17, 2, 4, 52),)
+'denie_cee
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (113781063L,) (datetime.datetime(2012, 7, 17, 2, 4, 53),)
+'
+('@denie_cee yes this should be growing much faster than it is',) (188969734L,) (datetime.datetime(2012, 7, 17, 2, 7, 9),)
+'denie_cee
+('RT @SnazztasticMatt: @denie_cee yes this should be growing much faster than it is',) (153530345L,) (datetime.datetime(2012, 7, 17, 2, 8, 20),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (403539714L,) (datetime.datetime(2012, 7, 17, 2, 9, 34),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (516155439L,) (datetime.datetime(2012, 7, 17, 2, 9, 42),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePFiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+upFresh',) (355322755L,) (datetime.datetime(2012, 7, 17, 2, 11, 34),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (428364387L,) (datetime.datetime(2012, 7, 17, 2, 11, 48),)
+'
+('RT @denie_cee: Go Radio | Unlock New Song "Collide" http://t.co/UAeowGnl #GoRadio',) (188969734L,) (datetime.datetime(2012, 7, 17, 2, 13, 50),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (27260219L,) (datetime.datetime(2012, 7, 17, 2, 14, 5),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (214633598L,) (datetime.datetime(2012, 7, 17, 2, 19, 16),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (135641094L,) (datetime.datetime(2012, 7, 17, 2, 25, 23),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (572521480L,) (datetime.datetime(2012, 7, 17, 2, 25, 27),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (307546519L,) (datetime.datetime(2012, 7, 17, 2, 26, 24),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (30011152L,) (datetime.datetime(2012, 7, 17, 2, 31, 58),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (23670890L,) (datetime.datetime(2012, 7, 17, 2, 34, 5),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (244820342L,) (datetime.datetime(2012, 7, 17, 2, 40, 38),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (629069644L,) (datetime.datetime(2012, 7, 17, 2, 45, 45),)
+'
+('RT @Loulos: Get Excited. #nofilter @mattgoradio @gojason @stevengoradio @alexgoradio  http://t.co/3CwAByjb',) (43272460L,) (datetime.datetime(2012, 7, 17, 2, 46, 1),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (271626236L,) (datetime.datetime(2012, 7, 17, 2, 48, 24),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (248007064L,) (datetime.datetime(2012, 7, 17, 2, 48, 40),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (163350114L,) (datetime.datetime(2012, 7, 17, 2, 51, 17),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (89097955L,) (datetime.datetime(2012, 7, 17, 2, 53, 24),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (54540783L,) (datetime.datetime(2012, 7, 17, 2, 57, 27),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (230621619L,) (datetime.datetime(2012, 7, 17, 3, 2, 39),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (102574768L,) (datetime.datetime(2012, 7, 17, 3, 10, 32),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (374631011L,) (datetime.datetime(2012, 7, 17, 3, 11, 17),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (229690021L,) (datetime.datetime(2012, 7, 17, 3, 17, 12),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (70811820L,) (datetime.datetime(2012, 7, 17, 3, 21, 31),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (193132995L,) (datetime.datetime(2012, 7, 17, 3, 22, 42),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (110346305L,) (datetime.datetime(2012, 7, 17, 3, 24, 19),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (17Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+6659718L,) (datetime.datetime(2012, 7, 17, 3, 27, 33),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (386105944L,) (datetime.datetime(2012, 7, 17, 3, 35, 47),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (157540432L,) (datetime.datetime(2012, 7, 17, 3, 47, 26),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (481699068L,) (datetime.datetime(2012, 7, 17, 4, 10, 45),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (43709333L,) (datetime.datetime(2012, 7, 17, 4, 34, 56),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (27549345L,) (datetime.datetime(2012, 7, 17, 4, 35, 44),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (46831528L,) (datetime.datetime(2012, 7, 17, 5, 1, 1),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (21049082L,) (datetime.datetime(2012, 7, 17, 5, 20, 7),)
+'
+('RT @GoJason: THIS!! http://t.co/SesXKSsm',) (341043476L,) (datetime.datetime(2012, 7, 17, 5, 23, 31),)
+'
+('RT @StephanieK95: What if my stars fell from the sky and what if they landed in your eyes? Well, would it be alright?',) (50934671L,) (datetime.datetime(2012, 7, 17, 7, 50, 31),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (282997115L,) (datetime.datetime(2012, 7, 17, 9, 8, 48),)
+'
+('RT @denie_cee: HELP UNLOCK IT ALREADY YOU BUMFUCKS Go Radio | Unlock New Song "Collide" http://t.co/UAeowGnl #GoRadio',) (188969734L,) (datetime.datetime(2012, 7, 17, 12, 2, 57),)
+'
+('RT @StephanieK95: What if my stars fell from the sky and what if they landed in your eyes? Well, would it be alright?',) (188969734L,) (datetime.datetime(2012, 7, 17, 12, 3, 27),)
+'
+('RT @PupFresh: Call Tumblr (678-439-8862) and tell them that PupFresh got hacked. #RestorePupFresh',) (28747755L,) (datetime.datetime(2012, 7, 17, 12, 9, 35),)
+'
+('RT @GoRadioStreet: DO ITTTTT http://t.co/f8toIkdm #GoRadio',) (188969734L,) (datetime.datetime(2012, 7, 17, 12, 29, 28),)
+'
+('#songsthatgiveyougoosebumps your birthday song by @GoRadio',) (188969734L,) (datetime.datetime(2012, 7, 17, 12, 30, 23),)
+'#songsthatgiveyougoosebumps
+('RT @GoRadioStreet: DO ITTTTT http://t.co/f8toIkdm #GoRadio',) (48575751L,) (datetime.datetime(2012, 7, 17, 12, 43, 19),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (188969734L,) (datetime.datetime(2012, 7, 17, 14, 37, 1),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (124886290L,) (datetime.datetime(2012, 7, 17, 16, 5, 9),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (296391241L,) (datetime.datetime(2012, 7, 17, 16, 5, 28),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (53548638L,) (datetime.datetime(2012, 7, 17, 16, 5, 30),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (26663814L,) (datetime.datetime(2012, 7, 17, 16, 9, 42),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (371417852L,) (datetime.datetime(2012, 7, 17, 16, 11, 14),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (43038158L,) (datetime.datetime(2012, 7, 17, 16, 11, 57),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (330709726L,) (datetime.datetime(2012, 7, 17, 16, 13, 3),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as weFiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+\'re going to put out." http://t.co/UWMA6LXN',) (28707766L,) (datetime.datetime(2012, 7, 17, 16, 20, 29),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (55750606L,) (datetime.datetime(2012, 7, 17, 16, 22, 19),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (628484035L,) (datetime.datetime(2012, 7, 17, 16, 22, 23),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (102468414L,) (datetime.datetime(2012, 7, 17, 16, 26),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (19950678L,) (datetime.datetime(2012, 7, 17, 16, 27, 21),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (41858736L,) (datetime.datetime(2012, 7, 17, 16, 35, 55),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (27268534L,) (datetime.datetime(2012, 7, 17, 16, 41, 57),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (22104206L,) (datetime.datetime(2012, 7, 17, 16, 45, 16),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (287028369L,) (datetime.datetime(2012, 7, 17, 16, 45, 30),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (191585986L,) (datetime.datetime(2012, 7, 17, 16, 47, 7),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (85900849L,) (datetime.datetime(2012, 7, 17, 16, 50, 26),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (701385680L,) (datetime.datetime(2012, 7, 17, 16, 57, 20),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (16809012L,) (datetime.datetime(2012, 7, 17, 16, 59, 37),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (242589520L,) (datetime.datetime(2012, 7, 17, 17, 0, 30),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (544060732L,) (datetime.datetime(2012, 7, 17, 17, 1, 12),)
+'
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (41129409L,) (datetime.datetime(2012, 7, 17, 17, 9, 10),)
+GoadioStreet:
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (228443043L,) (datetime.datetime(2012, 7, 17, 17, 19, 12),)
+'
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (283094539L,) (datetime.datetime(2012, 7, 17, 17, 19, 34),)
+GoadioStreet:
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (26585397L,) (datetime.datetime(2012, 7, 17, 17, 20, 59),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (330490701L,) (datetime.datetime(2012, 7, 17, 17, 24, 25),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (237578715L,) (datetime.datetime(2012, 7, Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+17, 17, 24, 50),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (48102867L,) (datetime.datetime(2012, 7, 17, 17, 30, 23),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (319460050L,) (datetime.datetime(2012, 7, 17, 17, 33, 47),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (173016280L,) (datetime.datetime(2012, 7, 17, 17, 46, 35),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (579006664L,) (datetime.datetime(2012, 7, 17, 17, 54, 29),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (19261628L,) (datetime.datetime(2012, 7, 17, 17, 54, 34),)
+'
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (472493724L,) (datetime.datetime(2012, 7, 17, 17, 58, 39),)
+GoadioStreet:
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (53185070L,) (datetime.datetime(2012, 7, 17, 18, 2, 57),)
+GoadioStreet:
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (637167175L,) (datetime.datetime(2012, 7, 17, 18, 9, 20),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (21978437L,) (datetime.datetime(2012, 7, 17, 18, 13, 23),)
+'
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (48575751L,) (datetime.datetime(2012, 7, 17, 18, 17, 50),)
+GoadioStreet:
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (35000800L,) (datetime.datetime(2012, 7, 17, 18, 41, 19),)
+'
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (175287562L,) (datetime.datetime(2012, 7, 17, 18, 48, 27),)
+GoadioStreet:
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (153530345L,) (datetime.datetime(2012, 7, 17, 18, 50, 39),)
+GoadioStreet:
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (245225755L,) (datetime.datetime(2012, 7, 17, 18, 51, 42),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (213891824L,) (datetime.datetime(2012, 7, 17, 18, 52, 45),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (17395272L,) (datetime.datetime(2012, 7, 17, 19, 14, 9),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (253429965L,) (datetime.datetime(2012, 7, 17, 19, 20, 3),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (595490020L,) (datetime.datetime(2012, 7, 17, 19, 26, 48),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (65700868L,) (datetime.datetime(2012, 7, 17, 19, 35, 46),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (267599821L,) (datetime.datetime(2012, 7, 17, 20, 9, 36),)
+'
+('RT @truthteam2012: Romney oFiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+Fiore Deli of Hoboken
+40.743015
+-74.036263
+n releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (327168420L,) (datetime.datetime(2012, 7, 17, 20, 18, 36),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (48139572L,) (datetime.datetime(2012, 7, 17, 20, 25, 15),)
+'
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (353926948L,) (datetime.datetime(2012, 7, 17, 20, 30, 52),)
+GoadioStreet:
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (493641739L,) (datetime.datetime(2012, 7, 17, 20, 55, 39),)
+'
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (362247873L,) (datetime.datetime(2012, 7, 17, 21, 32, 18),)
+GoadioStreet:
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (303401436L,) (datetime.datetime(2012, 7, 17, 21, 40, 49),)
+GoadioStreet:
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (635411228L,) (datetime.datetime(2012, 7, 17, 21, 51, 31),)
+'
+('RT @CPhonsoumphon: Please visit http://t.co/N0ncPgYQ to help unlock their new song "Collide"!!! #GoRadio',) (188969734L,) (datetime.datetime(2012, 7, 17, 21, 55, 33),)
+'
+("RT @GoRadioStreet: You'll be the reason, I'll be the rhyme. We've both got way too much ahead to worry about what we've left behind.",) (188969734L,) (datetime.datetime(2012, 7, 17, 21, 57, 2),)
+GoadioStreet:
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (28006905L,) (datetime.datetime(2012, 7, 17, 22, 3, 9),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (573585954L,) (datetime.datetime(2012, 7, 17, 22, 24),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (15062332L,) (datetime.datetime(2012, 7, 17, 22, 36, 44),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (568596412L,) (datetime.datetime(2012, 7, 17, 22, 59, 59),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (335697779L,) (datetime.datetime(2012, 7, 17, 23, 22, 22),)
+'
+('RT @truthteam2012: Romney on releasing only one tax return: "I\'ve put out as much as we\'re going to put out." http://t.co/UWMA6LXN',) (143491011L,) (datetime.datetime(2012, 7, 17, 23, 23, 27),)
+'
